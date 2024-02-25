@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../mern-mediastream-second-edition/mern-mediastream-second-edition/server"
+		},
+		{
+			"path": "../../../mern-mediastream-second-edition/mern-mediastream-second-edition/client"
+		},
+		{
+			"path": "../../../mern-mediastream-second-edition/mern-mediastream-second-edition/config"
+		},
+		{
+			"path": "../../../mern-mediastream-second-edition/mern-mediastream-second-edition/.github"
+		}
+	]
+}
